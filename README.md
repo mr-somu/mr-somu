@@ -2,9 +2,9 @@
 
 Web Developer @ Ucs Syscoms LLP
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio]                                                 
+- 🔭 Here's my [portfolio](https://mern-portfolio-ashy.vercel.app)
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow
-- ⚡ Fun fact: I know Hindi.
+- ⚡ Fun fact: I know japanese.
 - Social Presence
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/somasundharam-s-24529b28b/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/mr_somass/)
 
